@@ -4,3 +4,6 @@ Museum of Candy is a fictional company, this project is used to showcase what we
 # Built With
 * HTML/CSS
 * Bootstrap 4
+# Live Preview
+[Museum of Candy](https://radelapaz.github.io/museum-of-candy/)
+
